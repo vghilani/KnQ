@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 0
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "702992625077-9nqk3oog5jej5cvju67r8l6sksmro6lm.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpyaoLW59ZAW8OlY2dETWWDceGb7SuRPY"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:702992625077:ios:572f7dec9345c564", 
+        "android_client_info": {
+          "package_name": "com.InitialInteractive.KnQ"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "kingsandqueens-b8024.appspot.com", 
+    "project_id": "kingsandqueens-b8024", 
+    "firebase_url": "https://kingsandqueens-b8024.firebaseio.com", 
+    "project_number": "702992625077"
+  }
+}
