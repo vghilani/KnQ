@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "702992625077",
+    "firebase_url": "https://kingsandqueens-b8024.firebaseio.com",
+    "project_id": "kingsandqueens-b8024",
+    "storage_bucket": "kingsandqueens-b8024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702992625077:android:572f7dec9345c564",
+        "android_client_info": {
+          "package_name": "com.InitialInteractive.KnQ"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702992625077-ao73vi1jcqolqhiatts9cmh7s6j4ef4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3N2dPsHMSqeYmgBHg2zwdtsqgREzC8Fg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
